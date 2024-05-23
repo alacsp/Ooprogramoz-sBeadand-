@@ -1,3 +1,5 @@
 Objektumorientált programozás beadandó
+Gábor Dénes Egyetem
+Gazdaságinformatika
 Alács Pál
 QE745G
